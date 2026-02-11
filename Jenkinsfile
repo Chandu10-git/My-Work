@@ -1,4 +1,3 @@
-Created Jenkins file
 pipeline {
     agent any
     stages {
